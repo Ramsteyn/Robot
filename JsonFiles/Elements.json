@@ -1,0 +1,9 @@
+{
+  "Register":{
+    "UserName": "email",
+    "passWord": "pass"
+  },
+  "Button": {
+    "LoginButton": "submit"
+  }
+}
